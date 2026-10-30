@@ -43,9 +43,6 @@ The model was refitted on every week from 2008 to October 2026 and then frozen. 
 ranks the current members of the index every weekend, after the Friday close and before Monday's open. The IC of
 each week is known about two weeks later.
 
-There is a single test, fixed in advance. On 26 October 2029, the model is said to carry information if the mean
-weekly raw IC has a Newey-West t of at least 1.645. The raw IC still contains short-term reversal, so the pure IC
-will be reported next to it.
 
 ```
 2c1cd9d84ce24af3bcc16c16ad89ca9d205fb40b540836e9709a977acbe1c033  model.txt
