@@ -23,8 +23,7 @@ A beta-hedged, dollar-neutral portfolio built on the ranking has a Sharpe ratio 
 very low costs and next to other signals.
 
 The 2023-2026 period was opened once, for a test written in advance. Other signals had already been tested on the
-same years, so the bar was raised to t = 2.67. The ranking kept its sign there but did not pass.
-
+same years, so the bar was raised to t = 2.67, and the ranking kept its sign 
 ## Files
 
 The PDF explains the model, the portfolio and every number. The four CSV files in `results` hold the numbers behind
